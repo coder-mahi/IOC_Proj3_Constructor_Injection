@@ -40,12 +40,22 @@
 
 ### 🔥 **Top Repositories**
 <p align="center">
-  <a href="https://github.com/coder-mahi/Student-Mentoring-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=Student-Mentoring-App&theme=radical" />
+  <a href="https://github.com/coder-mahi/fullstack-instagram-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=fullstack-instagram-clone&theme=radical" />
   </a>
-  <a href="https://github.com/coder-mahi/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=Portfolio&theme=radical" />
+  <a href="https://github.com/coder-mahi/SanjivaniMentorMeet3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=SanjivaniMentorMeet3&theme=radical" />
   </a>
+  <a href="https://github.com/coder-mahi/Portfolio2.0">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=Portfolio2.0&theme=radical" />
+  </a>
+  <a href="https://github.com/coder-mahi/movie_ticket_reservation_system_AdvancedJava">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=movie_ticket_reservation_system_AdvancedJava&theme=radical" />
+  </a>
+  <a href="https://github.com/coder-mahi/SCOE_CSE_Sem_3/tree/main/CEP/task-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=SCOE_CSE_Sem_3&theme=radical" />
+  </a>
+  
 </p>
 
 ---
@@ -65,7 +75,11 @@
 
 #### 🎵 **YouTube to MP3 Converter App**
 - **Tech Stack:** Android (Java), APIs  
-- **Features:** Converts YouTube videos to MP3 format  
+- **Features:** Converts YouTube videos to MP3 format
+ 
+#### 🚀 **Task-Tracker (Web Application)**
+- **Tech Stack:** React.js, MongoDB, jspdf, Axios, OAuth2  
+- **Features:** Innovative Task Management Application wth advanced features
 
 📌 Check out all my projects **[here](https://github.com/coder-mahi?tab=repositories)**!
 
