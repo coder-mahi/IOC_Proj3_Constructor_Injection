@@ -43,15 +43,22 @@
   <a href="https://github.com/coder-mahi/fullstack-instagram-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=fullstack-instagram-clone&theme=radical" />
   </a>
+  <br>
   <a href="https://github.com/coder-mahi/SanjivaniMentorMeet3">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=SanjivaniMentorMeet3&theme=radical" />
   </a>
+    <br>
+
   <a href="https://github.com/coder-mahi/Portfolio2.0">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=Portfolio2.0&theme=radical" />
   </a>
+    <br>
+
   <a href="https://github.com/coder-mahi/movie_ticket_reservation_system_AdvancedJava">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=movie_ticket_reservation_system_AdvancedJava&theme=radical" />
   </a>
+    <br>
+
   <a href="https://github.com/coder-mahi/SCOE_CSE_Sem_3/tree/main/CEP/task-tracker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=coder-mahi&repo=SCOE_CSE_Sem_3&theme=radical" />
   </a>
