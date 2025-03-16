@@ -1,0 +1,27 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+                           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Constructor Injection: identifying parameters based on type attribute -->
+    <bean id="stud" class="com.beans.Student">
+        <constructor-arg value="100" type="int"/>
+        <constructor-arg value="mahesh" type="java.lang.String"/>
+        <constructor-arg value="89.30" type="float"/>
+    </bean>
+
+    <!-- Constructor Injection: identifying based on index attribute -->
+    <bean id="mk" class="com.beans.Marks">
+        <constructor-arg value="33" index="0"/>
+        <constructor-arg value="44" index="1"/>
+        <constructor-arg value="55" index="2"/>
+    </bean>
+
+    <!-- Constructor Injection: identifying based on name attribute -->
+    <bean id="fac" class="com.beans.Faculty">
+        <constructor-arg value="501" name="no"/>
+        <constructor-arg value="math" name="sub"/>
+        <constructor-arg value="Dr.xyz" name="fname"/>
+    </bean>
+
+</beans>
